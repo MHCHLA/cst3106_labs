@@ -32,7 +32,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![Header Mock-up](header.png)
+![Header Mock-up](header.PNG)
 
 ### Navigation
 

@@ -40,7 +40,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![Nav Mock-up](navigation.png)
+![Nav Mock-up](navigation.PNG)
 
 ### Content
 

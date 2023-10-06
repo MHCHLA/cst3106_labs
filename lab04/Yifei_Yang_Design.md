@@ -6,7 +6,7 @@ This is an overview of my portfolio project. It includes colors, typography, com
 
 We use a simple and clear color palette throughout the design.
 
-- **Primary Color:** `#516984`
+- **Primary Color:** `#b5c3d2`
 
 - **Text Color:** `#555`
 

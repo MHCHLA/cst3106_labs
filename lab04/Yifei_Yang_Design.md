@@ -8,21 +8,15 @@ We use a simple and clear color palette throughout the design.
 
 - **Primary Color:** `#b5c3d2`
 
-- **Text Color:** `#555`
+- **Text Color:** `#000000`, `#9098a1` and `#6495ed`
 
 - **Border Color:** `#cccccc`
 
-- **Background Color:** `#fff`
-
-- **Secondary Background Color:** `#f5f5f5`
-
-- **Accent Color:** `#5353c6`
+- **Background Color:** `#b5c3d2`
 
 ## **2. Typography**
 
-- **Body Text:** `"Times New Roman", Times, serif`
-
-- **Headers:** `'Trebuchet MS', sans-serif`
+- **Body Text:** `'Ubuntu', sans-serif`
 
 ## **3. Components and Layout**
 
@@ -32,15 +26,23 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![Header Mock-up](header.PNG)
+!(header.PNG)
 
-### Navigation
+### Left part
 
-- **Design:** Blue background with light grey text links.
+- **Design:** Contains personal information, skills and specifications.
 
 - **Mock-up Screenshot:**
 
-![Nav Mock-up](navigation.PNG)
+![left Mock-up](left.PNG)
+
+### Right part
+
+- **Design:** Contains education, technical skills and projects.
+
+- **Mock-up Screenshot:**
+
+![right Mock-up](right.PNG)
 
 ### Content
 

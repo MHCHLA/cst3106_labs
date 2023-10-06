@@ -26,7 +26,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-!(header.PNG)
+![header](header.PNG)
 
 ### Left part
 

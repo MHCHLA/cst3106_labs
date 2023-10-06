@@ -10,8 +10,6 @@ We use a simple and clear color palette throughout the design.
 
 - **Text Color:** `#000000`, `#9098a1` and `#6495ed`
 
-- **Border Color:** `#cccccc`
-
 - **Background Color:** `#b5c3d2`
 
 ## **2. Typography**

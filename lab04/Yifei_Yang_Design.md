@@ -24,7 +24,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![left](left.png)
+![left](left.PNG)
 
 ### Right part
 
@@ -32,7 +32,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![right](right.png)
+![right](right.PNG)
 
 ### Footer
 
@@ -40,7 +40,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![footer](footer.png)
+![footer](footer.PNG)
 
 ## **Conclusion**
 

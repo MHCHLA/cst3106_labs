@@ -20,21 +20,13 @@ We use a simple and clear color palette throughout the design.
 
 ## **3. Components and Layout**
 
-### Header
-
-- **Design:** Centered text with a light grey background.
-
-- **Mock-up Screenshot:**
-
-![header](header.PNG)
-
 ### Left part
 
 - **Design:** Contains personal information, skills and specifications.
 
 - **Mock-up Screenshot:**
 
-![left Mock-up](left.PNG)
+![left](left.png)
 
 ### Right part
 
@@ -42,15 +34,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![right Mock-up](right.PNG)
-
-### Content
-
-- **Design:** Centered section with light grey background.
-
-- **Mock-up Screenshot:**
-
-![Content Mock-up](content.png)
+![right](right.png)
 
 ### Footer
 
@@ -58,7 +42,7 @@ We use a simple and clear color palette throughout the design.
 
 - **Mock-up Screenshot:**
 
-![Footer Mock-up](footer.png)
+![footer](footer.png)
 
 ## **Conclusion**
 

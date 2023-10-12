@@ -14,10 +14,10 @@ This is an overview of my portfolio project. It includes colors, typography, com
 -   Subheadings: Times New Roman Italic - Subtle and stylish subheadings.
 -   Body Text: Calibri - Simple and readable for instructions and content.
 
-### **Dice Look and Feel:** `#b5c3d2`
+### **Dice Look and Feel:**
 Our Yatzy dice bring a unique blend of tradition and modern design. Each die boasts a crisp white color, with pips represented in our primary color. The dice's rounded edges and shadow effect give them a 3D appearance, enhancing the overall user experience.
 
-### **Game Mock-ups:** `#b5c3d2`
+### **Game Mock-ups:**
 ![footer](footer.PNG)
   
 ### **Playing Instructions** 

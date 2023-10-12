@@ -2,7 +2,7 @@
 
 This is an overview of my portfolio project. It includes colors, typography, components, and layouts, along with screenshots of mock-ups for clear communication of the design.
 
-## **1. Design System**
+## **Design System**
 
 ### **Colors Palette**
 -   Primary Color: #FF5733 - Used for headings, buttons, and dice.

@@ -4,7 +4,7 @@ This is an overview of my portfolio project. It includes colors, typography, com
 
 ## **1. Design System**
 
-- **Colors Palette:** `#b5c3d2`
+### **Colors Palette**
 
 - **Typography:** `#000000`, `#9098a1` and `#6495ed`
 
@@ -19,6 +19,8 @@ This is an overview of my portfolio project. It includes colors, typography, com
 ## **Conclusion**
 
 This documentation serves as a concise reference guide for the design system used in the portfolio project, aiming to facilitate development and maintain consistency in design throughout the project.
+
+
 ### [Colors Palette](https://github.com/kvhuang23/cst3106_labs/blob/main/lab05/readme_sample.md#colors-palette)
 
 -   Primary Color: #FF5733 - Used for headings, buttons, and dice.
